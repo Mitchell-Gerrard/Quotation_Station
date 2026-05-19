@@ -3,7 +3,7 @@
     "id": "5a9773df-e49f-45ae-95de-be1825c91949",
     "text": "Every day it gets easier. But you have to do it every day—that's the hard part.",
     "author": "Jogging Monkey",
-    "source": "Bojack Horseman Season 2, Episode 12",
+    "source": "Bojack Horseman Out To Sea Season 2, Episode 12",
     "tags": [
       "Theises",
       "Motivation",
@@ -60,6 +60,67 @@
       "Theises"
     ],
     "date": "2026-01-02",
+    "notes": null
+  },
+  {
+    "id": "b154d5d8-e835-4b69-9ff7-46fb33df72dd",
+    "text": "The universe is an endless, raging sea of randomness. Our job isn't to fight it, but to weather it, together, on the raft of life, a raft held together by those few rare, beautiful things that we know to be predictable.",
+    "author": "Abed Nadir",
+    "source": "Community Remedial Chaos Theory (S3E4)",
+    "tags": [
+      "Theises",
+      "Randomness"
+    ],
+    "date": "2026-05-17",
+    "notes": null
+  },
+  {
+    "id": "8c2684d1-2d89-48e6-bc0c-1e6984a93265",
+    "text": "Some flies are too awesome for the wall.",
+    "author": "Abed Nadir",
+    "source": "Community Documentary Filmmaking: Redux (S3E8)",
+    "tags": [
+      "Theises",
+      "Motivation"
+    ],
+    "date": "2026-05-17",
+    "notes": null
+  },
+  {
+    "id": "d282c7c7-56be-45da-a31b-71ec170fe28f",
+    "text": "A man needs his rest.",
+    "author": "Iroh",
+    "source": "Avatar: The Last Airbender The Siege of the North: Part 2 (S1E20)",
+    "tags": [
+      "Thesis",
+      "Rest"
+    ],
+    "date": "2026-05-17",
+    "notes": null
+  },
+  {
+    "id": "4e8441f2-96c3-4312-815b-7dccb989c24f",
+    "text": "Before I Leaped, I Should've Seen The View From Halfway Down.",
+    "author": "Secretariat",
+    "source": "Bojack Horseman The Veiw From Halfway Down (S6E15)",
+    "tags": [
+      "Thesis",
+      "Starting",
+      "Suicide"
+    ],
+    "date": "2026-05-17",
+    "notes": null
+  },
+  {
+    "id": "c5e35091-496d-4f13-afde-8c96cbb78b09",
+    "text": "Memory is RAM!",
+    "author": "Maurice Moss",
+    "source": "The IT Crowd The Dinner Party (S2E4)",
+    "tags": [
+      "Funny",
+      "Theises"
+    ],
+    "date": "2026-05-17",
     "notes": null
   }
 ]
